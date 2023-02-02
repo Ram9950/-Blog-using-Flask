@@ -1,0 +1,21 @@
+{
+    "params": {
+        "local_server": "True",
+        "local_uri": "mysql://root:@localhost/coding blog",
+        "prod_uri": "mysql://root:@localhost/coding blog",
+        "fb_url": "https://facebook.com/codingblog",
+        "tw_url": "https://twitter.com/codingblog",
+        "gh_url": "https://github.com/codingblog",
+        "blog_name": "The Coding Era ",
+        "tag_line": "A blog  liked by Programmer",
+        "gmail-user": "ravigupta13102004@gmail.com",
+        "gmail-password": "jbasedyoqxxidkpc",
+        "about-text": " Computers are amazing, but they  think for themselves (yet!). They require people to give them instructions. Coding is a list of step-by-step instructions that get computers to do what you want them to do. Coding makes it possible for us to create computer software, games, apps and websites. Coders, or programmers, are people who write the programmes behind everything we see and do on a computer. When children learn to code, it helps them to develop essential skills such as problem solving, logic and critical thinking. Through coding, children can learn that theres often more than one way to solve a problem, and that simpler and more efficient solutions are often better. Learning to code encourages children to become creators, not just consumers, of the technology they use.",
+        "no._of_posts":2,
+        "login_image" :"login.png",
+        "admin_user":"ravi",
+        "admin_password":"myflaskapp",
+        "upload_location" :"C:\\Users\\ravi\\Desktop\\VS code\\Web development"
+
+    }
+}
